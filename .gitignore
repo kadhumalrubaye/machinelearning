@@ -1,0 +1,9 @@
+*.xls
+.xls
+.xlsx
+*.xlsx
+.csv
+*.csv
+thesis/Lib/site-packages/
+thesis/Scripts/
+.idea
