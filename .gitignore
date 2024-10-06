@@ -7,3 +7,6 @@
 thesis/Lib/site-packages/
 thesis/Scripts/
 .idea
+__pycache__
+/__pycache__
+__pycache__/
